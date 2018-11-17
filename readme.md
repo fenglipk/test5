@@ -8,7 +8,11 @@ git checkout name // 进入分支
 
 git checkout -b name // 创建并且进入分支
 
+git push -u master name // 把分支在远程创建
+
 git  branch -d name  // 删除分支
 
 git push origin -d name 删除远程分支
+
+
 
